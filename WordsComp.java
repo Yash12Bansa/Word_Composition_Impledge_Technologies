@@ -38,7 +38,7 @@ public class WordsComp {
     }
 
     public static void main(String[] args) {
-        String inputFilePath = "out/production/PROBLEM SOLVING/WordsComp/input1.txt";
+        String inputFilePath = "out/production/PROBLEM SOLVING/WordsComp/input2.txt";
 
         List<String> wordList = new ArrayList<>();
 

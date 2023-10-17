@@ -20,7 +20,7 @@ Usage:
 Example Input:
 An example input file (input1.txt & input2.txt) containing a list of words is provided in the repository.
 
-Explanation:
+Code Explanation:
 1) This code begins by importing the necessary Java libraries, including java.io for file input/output and java.util for various utility classes and data structures. 
 2) Then, The code defines a Java class named WordsComp.
 3) Here, isComp is a method that checks if a given word is a compound word. It takes two parameters: the word to be checked and a set of words for reference.
